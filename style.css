@@ -1,0 +1,75 @@
+.container {
+    background-image: url("https://th.bing.com/th/id/OIP.iYda_Ju9qT1kfG-nuqzaIwHaLS?rs=1&pid=ImgDetMain");
+    width: 100vw;
+    height: 100vh;
+}
+
+.heading {
+    text-align: center;
+    color: white;
+}
+
+.button1 {
+    margin-left: 8px;
+    width: 50px;
+    border-radius: 6px;
+    background: red;
+
+}
+
+.button2 {
+    margin-left: 8px;
+    width: 50px;
+    border-radius: 6px;
+    background: yellow;
+
+}
+
+.button3 {
+    margin-left: 8px;
+    width: 50px;
+    border-radius: 6px;
+    background: orange;
+}
+
+.button4 {
+    margin-left: 8px;
+    width: 50px;
+    border-radius: 6px;
+    background: blue;
+}
+
+.button5 {
+    margin-left: 8px;
+    width: 50px;
+    border-radius: 6px;
+    background: #55CEFF;
+}
+
+.button6 {
+    margin-left: 8px;
+    width: 50px;
+    border-radius: 6px;
+    background: green;
+}
+
+.button7 {
+    margin-left: 8px;
+    width: 50px;
+    border-radius: 6px;
+    background: #0072A0;
+}
+
+.button8 {
+    margin-left: 8px;
+    width: 50px;
+    border-radius: 6px;
+    background: #EBB8DD;
+}
+
+.button9 {
+    margin-left: 8px;
+    width: 50px;
+    border-radius: 6px;
+    background: #53BDA5;
+}
